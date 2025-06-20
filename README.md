@@ -103,6 +103,3 @@ You now have a Flask app connected to a managed PostgreSQL database, fully deplo
 ---
 
 **Happy Coding!** 
-```
-
----
